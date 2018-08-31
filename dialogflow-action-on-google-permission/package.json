@@ -1,0 +1,7 @@
+{
+  "name": "codelab-level-two",
+  "description": "Actions on Google Codelab Level 2",
+  "dependencies": {
+    "actions-on-google": "^2.0.0"
+  }
+}

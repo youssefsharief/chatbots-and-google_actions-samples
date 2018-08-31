@@ -1,0 +1,5 @@
+{
+  "name": "ordinal-number",
+  "description": "A sample for a google action that utilizes ssml to pronounce the the ordinal of a given number using actionsSDK and AWS lambda ",
+  "version": "0.0.1"
+}
