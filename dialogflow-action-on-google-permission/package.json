@@ -1,6 +1,6 @@
 {
-  "name": "codelab-level-two",
-  "description": "Actions on Google Codelab Level 2",
+  "name": "Permissions in google actions",
+  "description": "A google sample action that demonstrates user permissions",
   "dependencies": {
     "actions-on-google": "^2.0.0"
   }
